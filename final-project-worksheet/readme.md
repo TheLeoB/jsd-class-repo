@@ -17,9 +17,14 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Project Proposal
 
-[I'm an inline-style link](https://www.google.com)
+Create a basic ecommerce site that allows users to browse items, search, add items to their cart, and checkout. The idea is to make it a skeleton so that i can populate it with any category of goods, but I’ll start out with one category.
+
+Will use the shopify API for the data with my own frontend. Site will be built with React.
+
+
+[Shopify API instructions](https://help.shopify.com/en/api/custom-storefronts/js-buy-sdk)
 
 ## Wireframes
 
