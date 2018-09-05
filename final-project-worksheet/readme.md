@@ -29,10 +29,19 @@ Will use the shopify API for the data with my own frontend. Site will be built w
 ## Wireframes
 
 
+**Homepage** 
+Product grid with all products featured on this page. User can click the product for more details.
 ![homepage](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/home%20page.jpg)
 
+
+**Product Details**
+Price, description, add to cart are on this page. User can also manually adjust quantity with the dropdown.
 ![product details](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/product%20details%20page.jpg)
+
+**Cart**
 ![cart](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/cart.jpg)
+
+**Checkout**
 ![checkout](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/checkout.jpg)
 
 ## Priority Matrix
