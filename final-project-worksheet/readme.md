@@ -29,11 +29,11 @@ Will use the shopify API for the data with my own frontend. Site will be built w
 ## Wireframes
 
 
-![homepage](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/home%20page.jpgg)
+![homepage](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/home%20page.jpg)
 
 ![product details](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/product%20details%20page.jpg)
 ![cart](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/cart.jpg)
-![checkout](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/product%20details%20page.jpg)
+![checkout](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/checkout.jpg)
 
 ## Priority Matrix
 
