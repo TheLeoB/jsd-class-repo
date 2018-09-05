@@ -28,7 +28,7 @@ Will use the shopify API for the data with my own frontend. Site will be built w
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+![homepage](https://github.com/TheLeoB/jsd-class-repo/blob/master/final-project-worksheet/cart.jpg)
 
 ## Priority Matrix
 
